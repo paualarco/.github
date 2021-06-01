@@ -1,0 +1,9 @@
+{
+  "name": "Scala Steward Scheduled Job",
+  "description": "Scala Steward to keep your project dependencies up-to-date.",
+  "iconName": "dixa",
+  "categories": [
+      "Scala"
+  ],
+  "filePatterns": ["build.sbt"]
+}
